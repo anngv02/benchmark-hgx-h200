@@ -9,4 +9,4 @@ These images were downloaded unchanged from NVIDIA documentation on 2026-11-08. 
 
 Documentation: [NVIDIA HGX AI Factory — Components](https://docs.nvidia.com/enterprise-reference-architectures/hgx-ai-factory-h100-h200-b200/latest/components.html).
 
-The system diagram includes BlueField-3 SuperNICs and a DPU. The benchmark node’s ConnectX-7 adapters and NVMe mapping are documented separately in README Section 2.3.
+The system diagram includes BlueField-3 SuperNICs and a DPU. The benchmark node’s ConnectX-7 adapters and NVMe mapping are documented separately in the [system topology document](../../docs/topology.md#mapping-gpu--nic--nvme--numa).
